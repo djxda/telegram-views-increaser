@@ -15,6 +15,7 @@ Telegram Views Increaser is a Python script that uses proxies to increase views 
 - Utilize proxies for enhanced anonymity
 - Easy-to-use script
 - Works Good On Low End Windows PC
+## Installation
 
 1. Download the repository by clicking the "Code" button above and selecting "Download ZIP."
    
