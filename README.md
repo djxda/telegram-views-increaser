@@ -25,7 +25,11 @@ cd telegram-views-increaser
 
 ## Usage
 
-Run the script using the following command in your command prompt or terminal, replacing `<channel_name>` and `<post_number>` with the appropriate values:
+<details>
+<summary><strong>Instructions</strong></summary>
+
+Run the script using the following command in your command prompt or terminal:
 
 ```bash
 python telegram_views_increaser.py <channel_name> <post_number>
+
