@@ -22,3 +22,11 @@ Telegram Views Increaser is a Python script that uses proxies to increase views 
 ```bash
 git clone https://github.com/djxda/telegram-views-increaser.git
 cd telegram-views-increaser
+
+<details>
+<summary><strong>Usage Instructions</strong></summary>
+
+Run the script using the following command in your command prompt or terminal, replacing `<channel_name>` and `<post_number>` with the appropriate values:
+
+```bash
+python telegram_views_increaser.py <channel_name> <post_number>
