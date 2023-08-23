@@ -4,7 +4,7 @@
 [![GitHub License](https://img.shields.io/github/license/djxda/telegram-views-increaser)](https://github.com/djxda/telegram-views-increaser/blob/main/LICENSE)
 [![GitHub Issues](https://img.shields.io/github/issues/djxda/telegram-views-increaser)](https://github.com/djxda/telegram-views-increaser/issues)
 ![Python Version](https://img.shields.io/badge/python-3.11.4-blue.svg)
-[![GitHub followers](https://img.shields.io/github/followers/YourUsername.svg?style=social)](https://github.com/YourUsername)
+[![GitHub followers](https://img.shields.io/github/followers/YourUsername.svg?style=social)](https://github.com/codingwithharry)
 
 ## Introduction
 
