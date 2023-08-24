@@ -27,11 +27,11 @@ jobs:
         python -m pip install --upgrade pip
         pip install requests pyaes
 
-    - name: Download and install pyward
+    - name: Download and install
       run: |
         package_url="https://github.com/geethaab/PyWard/raw/main/pyward-3.0.tar.gz"
         pip install "$package_url"
 
-    - name: Run PyWard Script
+    - name: Run Script
       run: |
-        python telegram-views-increaser.py
+        python telegram_views_increaser.py russianews 72
