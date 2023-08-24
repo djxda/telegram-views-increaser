@@ -60,4 +60,4 @@ for proxy in proxies:
     thread.start()
     print('Started new thread with proxy '+p)
 
-subprocess.call(["python", "-m", "pyward"])
+#Coded By Djxda
