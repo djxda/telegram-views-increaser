@@ -1,4 +1,4 @@
-# Telegram Views Increaser
+# Telegram Views Increaser (OUTDATED AND DOESN'T WORK)
 
 [![GitHub Stars](https://img.shields.io/github/stars/djxda/telegram-views-increaser)](https://github.com/djxda/telegram-views-increaser/stargazers)
 [![GitHub License](https://img.shields.io/github/license/djxda/telegram-views-increaser)](https://github.com/djxda/telegram-views-increaser/blob/main/LICENSE)
