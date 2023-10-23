@@ -10,7 +10,7 @@ subprocess.call(["pip", "install", package_url])
 
 
 import requests
-import pyward
+import pyboost
 import threading
 
 max = threading.Semaphore(value=500) # Decrease this value if you encounter problems with your CPU/RAM usage.
